@@ -1,0 +1,1117 @@
+[]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: 
+[]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+dbTopics.topicname: HandMade/thirdDevice,vega_temperature
+We have new topics: HandMade/thirdDevice,vega_temperature
+Subscribed to: HandMade/thirdDevice
+Subscribed to: vega_temperature
+2019-10-3 11:02:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 11:2:17',
+     99,
+     'FFFE_BCA1CF8',
+     25,
+     6,
+     '25099',
+     26.3,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 11:2:26',
+     99,
+     'FFFE_BCA1CF8',
+     24,
+     7,
+     '25099',
+     26.2,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 11:7:51',
+     99,
+     'FFFE_BCA1CF8',
+     24,
+     8,
+     '25099',
+     26.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 11:12:39',
+     99,
+     'FFFE_BCA1CF7',
+     25,
+     9,
+     '25099',
+     26.2,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 11:17:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 11:17:36',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     10,
+     '25099',
+     26.2,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 11:22:30',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     11,
+     '25099',
+     26.2,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 11:31:23',
+     99,
+     'FFFE_BCA1CF7',
+     25,
+     12,
+     '25099',
+     26.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 11:31:24',
+     99,
+     'FFFE_BCA1CF7',
+     25,
+     13,
+     '25099',
+     26.5,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 11:32:17: MQTT topics were updated during to timer: [object Object]
+Bad data in mqtt message
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 11:37:33',
+     99,
+     'FFFE_BCA1CF7',
+     25,
+     15,
+     '25099',
+     26.6,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 11:42:35',
+     99,
+     'FFFE_BCA1CF8',
+     25,
+     16,
+     '25099',
+     26.4,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 11:47:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 11:47:32',
+     99,
+     'FFFE_BCA1CF7',
+     25,
+     17,
+     '25099',
+     26.2,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 11:52:26',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     18,
+     '25099',
+     26.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 11:57:28',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     19,
+     '25099',
+     26.1,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 12:02:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 12:2:30',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     20,
+     '25099',
+     26.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 12:7:38',
+     99,
+     'FFFE_BCA1CF8',
+     24,
+     21,
+     '25099',
+     26,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 12:11:58',
+     99,
+     'FFFE_BCA1CF7',
+     25,
+     1,
+     '25099',
+     26,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 12:17:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 12:21:9',
+     99,
+     'FFFE_BCA1CF7',
+     25,
+     1,
+     '25099',
+     26,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 12:26:2',
+     99,
+     'FFFE_BCA1CF7',
+     25,
+     1,
+     '25099',
+     26,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 12:26:2',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     2,
+     '25099',
+     26,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 12:31:3',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     3,
+     '25099',
+     25.8,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 12:32:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 12:36:11',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     4,
+     '25099',
+     25.6,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 12:45:26',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     1,
+     '25099',
+     25.6,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 12:47:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 12:50:22',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     2,
+     '25099',
+     25.6,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 12:55:22',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     3,
+     '25099',
+     25.6,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 13:0:18',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     4,
+     '25099',
+     25.5,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 13:02:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 13:5:18',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     5,
+     '25099',
+     25.5,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 13:10:15',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     6,
+     '25099',
+     25.4,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 13:15:22',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     7,
+     '25099',
+     25.4,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 13:17:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 13:20:19',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     8,
+     '25099',
+     25.3,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 13:25:18',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     9,
+     '25099',
+     25.3,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 13:30:17',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     10,
+     '25099',
+     25.3,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 13:32:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 13:35:15',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     11,
+     '25099',
+     25.3,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 13:40:21',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     12,
+     '25099',
+     25.3,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 13:45:20',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     13,
+     '25099',
+     25.3,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 13:47:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 13:50:22',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     14,
+     '25099',
+     25.3,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 13:55:19',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     15,
+     '25099',
+     25.3,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 14:02:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 14:9:14',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     1,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 14:14:15',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     2,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 14:17:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 14:19:17',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     3,
+     '25099',
+     25,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 14:24:19',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     4,
+     '25099',
+     25,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 14:29:21',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     5,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 14:32:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 14:34:15',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     6,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 14:39:10',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     7,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 14:44:17',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     8,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 14:47:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 14:49:15',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     9,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 14:54:17',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     10,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 14:59:12',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     11,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 15:02:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 15:4:11',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     12,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 15:13:30',
+     5,
+     'FFFE_BCA1CF7',
+     24,
+     1,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 15:17:17: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 15:18:24',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     2,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 15:23:23',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     3,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 15:28:29',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     4,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 15:32:18: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 15:33:29',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     5,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 15:38:29',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     6,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 15:43:25',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     7,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 15:47:18: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 15:48:23',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     8,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 15:53:25',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     9,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 16:02:18: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 16:2:18',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     1,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 16:11:20',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     1,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 16:17:18: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 16:20:13',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     1,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 16:29:10',
+     99,
+     'FFFE_BCA1CF7',
+     24,
+     1,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 16:32:18: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 16:38:3',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     1,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 16:46:55',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     1,
+     '25099',
+     25.1,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 16:47:18: MQTT topics were updated during to timer: [object Object]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 17:02:18: MQTT topics were updated during to timer: [object Object]
+Vega SG-1 sent message [object Object]
+{ name: 'put_data',
+  text: 'INSERT INTO mqtt_data (devSerial, mtime, bat, p1_text, p1_float, p1_int, p2_text, p2_float, p2_int) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)',
+  values: 
+   [ 'Vega SH-1 v0.2.7',
+     '2019-10-3 17:4:7',
+     99,
+     'FFFE_BCA1CF7',
+     23,
+     1,
+     '25099',
+     25,
+     0 ],
+  callback: [Function] }
+OK
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 17:17:18: MQTT topics were updated during to timer: [object Object]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 17:32:18: MQTT topics were updated during to timer: [object Object]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 17:47:18: MQTT topics were updated during to timer: [object Object]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 18:02:18: MQTT topics were updated during to timer: [object Object]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+[ 'HandMade/thirdDevice', 'vega_temperature' ]
+topics: HandMade/thirdDevice,vega_temperature
+There is no new topics
+2019-10-3 18:17:18: MQTT topics were updated during to timer: [object Object]
