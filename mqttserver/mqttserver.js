@@ -31,8 +31,13 @@ const select_mqtt_topics = {
 }
  
 const select_info_mqtt_topics = {
-  name: 'select_exact_mqtt_topics',
+  name: 'select_info_mqtt_topics',
   text: 'SELECT * FROM mqtt_topics WHERE topicname = $1',
+}
+
+const select_dev_status_profile = {
+  name: 'select_dev_status_profile',
+  text: 'SELECT devices.devserial, devices.status, device_profiles.profilename , device_profiles.msg_2_db_param_list, device_profiles.db_2_sql_param_list, device_profiles.api_param_mapping, device_profiles.target_table FROM devices, device_profiles WHERE (devices.profile = device_profiles.profilename AND devices.devserial = $1);',
 }
 
 // updated controller.js
@@ -64,10 +69,90 @@ mqttclient.on('connect', () => {
 
 mqttclient.on('message', (topic, message) => {
 
-	//узнать какие устройства привязаны к топику и выгрузить структуру топика: select_info_mqtt_topics
-	// проверить, что структура сообщения соответствует данным в БД
-	// вынуть из сообщения серийный номер устройства и проверить, что устройство зарегистрировано
-	// вынуть из профиля устройства какие данные из сообщения нужны и в какие таблицы класть
+
+	client.query(select_info_mqtt_topics, [topic], (err, res) => {
+		  if (err) {
+		    console.log(err.stack)
+		  } else {
+
+		//узнать какие устройства привязаны к топику и выгрузить структуру топика: select_info_mqtt_topics  	
+		  	//Парсинг сообщения и проверка на валидность json объекта
+		  		let jsonMsgOk = false;
+				try{
+					let msg = JSON.parse(message);
+					jsonMsgOk = true;
+				}
+				catch(e){
+					console.log(e.name)
+					jsonMsgOk = false;
+				}
+
+		  		let format = res.rows[0].format;
+		  		let devices = res.rows[0].device_list.devices;
+		  		let manufacturers = res.rows[0].manufacturers_list.manufacturers;
+
+		  		let msgFormat = 0;
+				let msgOk = false;
+
+				if(jsonMsgOk){
+					//console.log("jsonMsgOk = " + jsonMsgOk)
+					
+					for (property in msg) {
+						// проверить, что структура сообщения соответствует данным в БД
+						switch (property) {
+							case 'LBS':
+								msgFormat++;
+								console.log("LBS " + property + ': ' + msg[property]);
+								break;
+							case 'Telemetry':
+								msgFormat++;
+								console.log("Telemetry " + property + ': ' + msg[property]);
+								break;
+							case 'Message':
+								msgFormat++;
+								console.log("Message " + property + ': ' + msg[property] );															
+								break;
+							default:
+								console.log("There is no keys");
+						}	
+
+						console.log("msg_ok = " + jsonMsgOk + " MsgFormat: " + msgFormat)
+
+						if(msgFormat == 3) {
+							console.log("msgFormat == 3");
+							msgOk = true
+							devSerial = msg.Message.dev;
+
+							for (i in devices){
+								if(devSerial == devices[i]){
+										console.log("devSerial: " + devSerial + " == device in msg:" + devices[i]);
+										client.query(select_dev_status_profile, [devSerial], (err, res) => {
+												console.log(res.rows[0])
+											  if (err) {
+											    console.log(err.stack)
+											  } else {
+											  	console.log("OK: " + devSerial + " " + res.rows[0].msg_2_db_param_list)
+											  	//выполнить зарос на добавление данных в БД в соответствующие поля, если устройство зарегистрировано. При необходимости поменять статус
+											  }
+										})									
+									}
+								}
+
+
+						}
+					}
+					
+					//проверить, что серийник из сообщения соответствует одному из серийников в массиве привязанных к этому топику и что устройство зарегистрировано
+						// вынуть из профиля устройства какие данные из сообщения нужны и в какие таблицы класть
+				    
+				}		  		
+
+		  }
+		})
+	
+	
+
+	
 	
   switch (topic) {
     case 'vega_temperature':
